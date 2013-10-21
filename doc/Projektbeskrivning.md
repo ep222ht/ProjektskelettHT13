@@ -31,4 +31,4 @@ Elof Paulsson, ep222ht, 890118-3957
 
 ## Tidsplanering
 *Länka till tidsplaneringen här, eller fäll in som en bild.*
-**
+*Ligger i doc mappen på projektet*
