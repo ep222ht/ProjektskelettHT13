@@ -1,13 +1,9 @@
-
 # Projektnamn här
 Projektmedlemmar: 
 [ep222ht](https://github.com/ep222ht), [lj222kj](https://github.com/lj222kj), [sh222td](https://github.com/sh222td)
 
 *Lista alla medlemmar ovan. Ni behöver inte ange fullständiga namn utan länk till GitHub-konto räcker.*
-Gruppen består av: 
-Linus Jakobsson, lj222kj, 940603-0719
-Sandra Hansson, sh222td, 931022-2642
-Elof Paulsson, ep222ht, 890118-3957
+
 [Exekverbar version av projektet](http://ep222ht.github.io/Projektet)
 
 *Länka till en körbar version av projektet ovan. Exempelvis kan ni skapa en gh-pages-branch på samma sätt som i Uppgift 1.1, laboration 1.*
